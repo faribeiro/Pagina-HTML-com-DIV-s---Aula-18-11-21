@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 996px;
+    height: 616px;
+    background-color: #fffefe;
+}
+.banner{
+    width: 982px;
+    height: 100px;
+    
+    border-color: dimgray;
+    background-color: dimgray;    
+}
+.img-banner{
+    width: 982px;
+    height: 100px;
+}
+.botoes{
+    background-color: rgb(41, 41, 182);
+    width: 69px;
+    height: 516px;
+    display: inline-block;
+    margin-bottom: 200px;
+    position: absolute;
+}
+.botoes-lista{
+    list-style: none;
+    font-size: medium;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+.container-texto{
+    background-color: rgb(206, 161, 191);
+    width: 360px;
+    height: 516px;
+    margin-left: 64px;
+    list-style: none;
+}
+.texto-doacao{
+    color: #060607;
+    text-align: justify;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    letter-spacing: 1px;
+    word-spacing: normal;
+    white-space: normal;
+    margin-left: 7px;
+}
+/*.video1{
+    background-color: darkgreen;
+    display: inline-block;
+    background-size: 275px;
+
+}
+.video2{
+    background-color: darkmagenta;
+    background-size: 50%;
+    display: inline-block;
+    margin-right: 150px;
+}
+.video3{
+    background-color: darkorange;
+    display: inline-block;
+    background-size: 50%;
+
+}
+.video4{
+    background-color: darkred;
+    display: inline-block;
+    background-size: 50%;
+}
+*/
+#container-videos
+.video1{
+    height: 256px;
+    width: 275px;
+    background-color: rgb(5, 5, 5);
+    float: left;
+    margin-left: 428px;
+    position: absolute;
+    margin-top: -516px;
+}
+.texto-video-1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: ivory;
+    text-align: justify;
+    text-align: center;
+}
+.video2{
+    height: 256px;
+    width: 275px;
+    background-color: rgb(5, 5, 5);
+    float: left;
+    margin-left: 706px;
+    margin-bottom: 50px;
+    position: relative;
+    margin-top: -516px;
+}
+.texto-video-2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: ivory;
+    text-align: justify;
+    text-align: center;
+}
+.video3{
+    height: 256px;
+    width: 275px;
+    background-color: rgb(5, 5, 5);
+    float: left;
+    margin-left: 428px;
+    margin-top: -256px;
+}
+.texto-video-3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: ivory;
+    text-align: justify;
+    text-align: center;
+}
+.video4{
+    height: 256px;
+    width: 275px;
+    background-color: rgb(5, 5, 5);
+    float: right;
+    margin-top: -256px;
+    margin-left: 706px;
+    position: absolute;
+}
+.texto-video-4{
+    font-family: Arial, Helvetica, sans-serif;
+    color: ivory;
+    text-align: justify;
+    text-align: center;
+}
